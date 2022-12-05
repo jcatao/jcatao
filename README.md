@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things technology! Especially Software Engineering, Python, Django, Data Science, and Data Engineering.
 - 🌱 I’m currently learning Django for web app development, REST API, Docker, and Kubernetes.
 - 💞️ I’m looking to collaborate on just about anything that may bring value to my life.
-- 📫 How to reach me: message me on GitHub!
+- 📫 How to reach me: website coming soon!
 
 
 I also thoroughly enjoy exercising, playing recreational sports, reading both non-fiction (for learning) and fiction (for entertainment),
