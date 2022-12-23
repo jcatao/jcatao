@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcatao
-- 👀 I’m interested in all things technology! Especially Software Engineering, Python, Django, Data Science, and Data Engineering.
+- 👀 I’m interested in all things technology! Especially Software Engineering, Python, Django, Flask, Data Science, and Data Engineering.
 - 🌱 I’m currently learning Django for web app development, REST API, Docker, and Kubernetes.
 - 💞️ I’m looking to collaborate on learning resources and knowledge.
 - 📫 How to reach me: website coming soon!
