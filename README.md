@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcatao
-- 👀 I’m interested in all things technology! Especially Software Engineering, Python, Django, Flask, Data Science, and Data Engineering.
-- 🌱 I’m currently learning Django, Django Rest Framework, Docker, and Kubernetes.
+- 👀 I’m a Software Engineer and Consultant with about 3 years of experience! Prior to becoming a dev, I studied Computer Science at the University of Wisconsin.
+- 🌱 I’m currently working on projects and expanding my skills with React, .NET, HTML, CSS (SASS/SCSS), Python, and more.
 - 💞️ I’m looking to collaborate on learning resources and knowledge.
 - 📫 How to reach me: website coming soon!
 
